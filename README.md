@@ -1,6 +1,6 @@
 ---
 # Loan_Approval
-Compilation of Python programming codes
+Compilation of Python programming codes.
 
 ## Description
   The project demonstrates analyses on a dataset using a logistic regression model.
